@@ -1,0 +1,6 @@
+Bootstrap: Librería de estilos CSS, creada por Twitter, cuya principal característica es 
+dotar a los sitios web de responsividad.
+
+Página oficial: https://getbootstrap.com/
+
+CDN (Content Delivery Network): Red de distribución de contenidos.
